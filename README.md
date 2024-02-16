@@ -1,7 +1,11 @@
 # AI Case Study of Credo Health Solutions, Inc.
 
 ## Overview and Origin
+<<<<<<< HEAD
 Credo Health Solutions, Inc. (Credo Health) is a privately held, venture-capital-backed start-up in the healthcare industry.[^1] It was incorporated in 2021 in Denver, CO, by Carm Huntress.[^1],[^2]
+=======
+Credo Health Solutions, Inc. (Credo Health) is a privately held, venture-capital backed start-up in the healthcare industry[^1]. It was incorporated in 2021 in Denver, CO, by Carm Huntress
+>>>>>>> 5bb967cc561ef11a79a89679f901427298aee3da
 
 Credo Health aims to simplify patient record retrieval of external patient records for healthcare providers.
 
@@ -49,5 +53,9 @@ Credo Health has gone through two rounds of seed financing for a total of $8.25 
 
 ## Footnotes
 
+<<<<<<< HEAD
 [^1]: Website: https://pitchbook.com/profiles/company/491815-99#overview, accessed on 2/16/2024.
 [^2]: Rumage, Jeff (2022, March 7). *Newly Launched Credo Raises $3M to Gather Medical Charts for Providers* Built in Colorado. https://www.builtincolorado.com/2022/03/07/healthtech-credo-launches-3m-funding
+=======
+[^1]: Website: https://pitchbook.com/profiles/company/491815-99#overview, 2/16/2024
+>>>>>>> 5bb967cc561ef11a79a89679f901427298aee3da
