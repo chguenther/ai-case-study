@@ -10,7 +10,7 @@ Credo Health has gone through two rounds of seed funding for a total of $8.25 mi
 Carm Huntress was inspired by his mother who carried stacks of her patient records with her from medical appointment to medical appointment when she was ill with cancer in the early to mid 1990. To quote Mr. Huntress[^4]:
 > Patients today still carry around their paper records like my Mom did. We still fax (yes, fax!) over nine billion pages of medical records annually and spend $126 billion managing those faxes and paper records. Three out of every ten diagnostic tests have to be repeated because caregivers can’t find previous patient records.
 
-> [!Disclaimer]
+> [!Note]
 > Since Credo Health is privately held, it was difficult to find independent information on the company. Hence, the following information might be biased and incomplete since it was obtained mostly from company sources such as the company's website, blogs or articles written by the company's founder and published in various Internet publications.
 
 ## Problem Statement, Company Solution, and Technology
@@ -58,6 +58,11 @@ According to [CB Insights](https://www.cbinsights.com/) the top 5 competitors of
 * [DrOwl](https://www.drowl.com/)
 * [Ontellus](https://www.ontellus.com/)
 
+The top competitive advantages of the Credo Health solution compared to its competitors are are:
+* The precentage of patient records retrieved.
+* The precentage increase in the Risk Adjustment Factor (RAF).
+* The increase in HEDIS/Stars measures.
+
 ## Landscape
 
 * What field is the company in?
@@ -84,6 +89,11 @@ According to [CB Insights](https://www.cbinsights.com/) the top 5 competitors of
 
 * Why are these technologies appropriate for your solution?
 
+## Glossary
+| Term        | Definition                                                                        |
+|-------------|-----------------------------------------------------------------------------------|
+| HEDIS       | HEDIS stands for "Healthcare Effectiveness Data and Information Set". It is a widely used management tool in the healthcare industry. It allows to measure the health of a population and the quality of care this population receives in a standardized way thereby allowing for comparisons between the health and quality of care different populations receive. It is based on "scientific evidence, input from key stakeholders and experts in health measurement".[^11] | 
+
 ## Footnotes
 
 [^1]: https://pitchbook.com/profiles/company/491815-99#overview, accessed on 2/16/2024.
@@ -96,4 +106,4 @@ According to [CB Insights](https://www.cbinsights.com/) the top 5 competitors of
 [^8]: (2023, March 27). *Credo Unveils PreDx - The First Pre-Encounter Patient Summary Solution Enabling Providers to Excel in VBC*, Credo Health Blog, https://www.credohealth.com/blog/credo-unveils-predx-the-first-pre-encounter-patient-summary-solution-enabling-providers-to-excel-in-value-based-care
 [^9]: (2023, May 9). *From ChatGPT to the Complete Digital Medical Record*, Credo Health Blog, https://www.credohealth.com/blog/from-chatgpt-to-the-complete-digital-medical-record.
 [^10]: https://www.cbinsights.com/company/credo-5/alternatives-competitors, accessed on 2/16/2024.
-
+[^11]: https://www.ncqa.org/wp-content/themes/ncqa-org/css/images/landing-employer-toolkit/pdf/NCQA-HPA-MeasuringHCQ-HEDIS-WEB.pdf, accessed on 2/19/2024.
