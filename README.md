@@ -10,6 +10,9 @@ Credo Health has gone through two rounds of seed funding for a total of $8.25 mi
 Carm Huntress was inspired by his mother who carried stacks of her patient records with her from medical appointment to medical appointment when she was ill with cancer in the early to mid 1990. To quote Mr. Huntress[^4]:
 > Patients today still carry around their paper records like my Mom did. We still fax (yes, fax!) over nine billion pages of medical records annually and spend $126 billion managing those faxes and paper records. Three out of every ten diagnostic tests have to be repeated because caregivers can’t find previous patient records.
 
+> [!Disclaimer]
+> Since Credo Health is privately held, it was difficult to find independent information on the company. Hence, the following information might be biased and incomplete since it was obtained mostly from company sources such as the company's website, blogs or articles written by the company's founder and published in various Internet publications.
+
 ## Problem Statement, Company Solution, and Technology
 
 ### Problem Statement
@@ -92,5 +95,5 @@ According to [CB Insights](https://www.cbinsights.com/) the top 5 competitors of
 [^7]: Huntress, Carm (2023, May 3). *How AI can help physicians with pre-encounter medical record analysis*, Medical Economics, https://www.medicaleconomics.com/view/how-ai-can-help-physicians-with-pre-encounter-medical-record-analysis.
 [^8]: (2023, March 27). *Credo Unveils PreDx - The First Pre-Encounter Patient Summary Solution Enabling Providers to Excel in VBC*, Credo Health Blog, https://www.credohealth.com/blog/credo-unveils-predx-the-first-pre-encounter-patient-summary-solution-enabling-providers-to-excel-in-value-based-care
 [^9]: (2023, May 9). *From ChatGPT to the Complete Digital Medical Record*, Credo Health Blog, https://www.credohealth.com/blog/from-chatgpt-to-the-complete-digital-medical-record.
-[^10] https://www.cbinsights.com/company/credo-5/alternatives-competitors, accessed on 2/16/2024.
+[^10]: https://www.cbinsights.com/company/credo-5/alternatives-competitors, accessed on 2/16/2024.
 
