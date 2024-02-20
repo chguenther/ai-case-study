@@ -7,7 +7,7 @@ Credo Health aims to automate the patient medical record retrieval process for h
 
 Credo Health has gone through two rounds of seed funding for a total of $8.25 million from 8 investors ($3 million in March of 2022 and $5.25 million in January of 2024)[^1],[^2]. The company has grown from 6 employees to 24 employees between March of 2022 and January of 2024[^1],[^2].
 
-Carm Huntress was inspired to create Credo Health by his mother who carried stacks of her patient records with her from medical appointment to medical appointment when she was ill with cancer in the early to mid 1990. To quote Mr. Huntress[^4]:
+Carm Huntress was inspired to create Credo Health by his mother who carried stacks of her patient records from medical appointment to medical appointment when she was ill with cancer in the early to mid 1990. To quote Mr. Huntress[^4]:
 > Patients today still carry around their paper records like my Mom did. We still fax (yes, fax!) over nine billion pages of medical records annually and spend $126 billion managing those faxes and paper records. Three out of every ten diagnostic tests have to be repeated because caregivers can’t find previous patient records.
 
 > [!Note]
