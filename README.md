@@ -7,23 +7,23 @@ Credo Health aims to automate the patient medical record retrieval process for h
 
 Credo Health has gone through two rounds of seed funding for a total of $8.25 million from 8 investors ($3 million in March of 2022 and $5.25 million in January of 2024)[^1],[^2]. The company has grown from 6 employees to 24 employees between March of 2022 and January of 2024[^1],[^2].
 
-Carm Huntress was inspired by his mother who carried stacks of her patient records with her from medical appointment to medical appointment when she was ill with cancer in the early to mid 1990. To quote Mr. Huntress[^4]:
+Carm Huntress was inspired to create Credo Health by his mother who carried stacks of her patient records with her from medical appointment to medical appointment when she was ill with cancer in the early to mid 1990. To quote Mr. Huntress[^4]:
 > Patients today still carry around their paper records like my Mom did. We still fax (yes, fax!) over nine billion pages of medical records annually and spend $126 billion managing those faxes and paper records. Three out of every ten diagnostic tests have to be repeated because caregivers can’t find previous patient records.
 
 > [!Note]
-> Since Credo Health is privately held, it was difficult to find independent information on the company. Hence, the following information might be biased and incomplete since it was obtained mostly from company sources such as the company's website, blogs or articles written by the company's founder and published in various Internet publications.
+> Since Credo Health is privately held, it was difficult to find independent information about the company. Hence, the following information relating specifically to Credo Health might be biased and incomplete since it was obtained mostly from company sources such as the company's website, blogs or articles written by the company's founder and published in various Internet publications.
 
 ## Problem Statement, Company Solution, and Technology
 
 ### Problem Statement
 
-Although medical patient records are mostly digitized in Electronic Health Record (EHR) systems, due to a lack of interoperability between different EHR system, healthcare providers still often exchange these records via Fax or email[^5]. In addition, the information contained in these often voluminous records is not synthesized before consumption by the receiving provider[^5].
+Although medical patient records are mostly digitized in Electronic Health Record (EHR) systems, due to a lack of interoperability between these systems, healthcare providers still often exchange patient records via Fax or email[^5]. In addition, the information contained in these often voluminous records is not synthesized before consumption by the receiving provider[^5].
 
 Some of the inefficiences caused by this lack of interoperability are
 * Delay in patient care due to incomplete patient medical records[^6].
 * Administrative overhead due to "chart chasing"[^3].
 * Repeated diagnostic tests because records of previous tests could not be found[^4].
-* Incomplete coding of patients medical conditions which causes loss of revenue and may lead to bad patient care[^7].
+* Incomplete coding of patients' medical conditions which causes loss of revenue and may lead to bad patient care[^7].
 
 More specifically, Credo Health maintains[^8] that on average
 * Front desk staff spends
@@ -55,7 +55,7 @@ According to the [Credo Health blog](https://www.credohealth.com/blog), PreDx em
 * The Credo Health Blog contains articles[^7],[^11] referring to how large language models (LLM) can be applied to analyze medical records suggesting that PreDx uses this technology as well.
 
 > [!Note]
-> From the author's experience in the healthcare industry (10 years of providing IT support and services for Medicare Advantage clinics), Credo Health probably uses the following technologies in addition and conjunction of the technologies listed above:
+> From the author's experience in the healthcare industry (10 years of providing IT support and services for Medicare Advantage clinics), Credo Health probably uses the following technologies in addition to and conjunction with the technologies listed above:
 > * [FHIR](#Glossary), [CCDA](#Glossary) and similar protocols and standards in conjunction with Health Information Exchanges (HIE) and Health Information Service Providers (HISP) to retrieve medical records from external parties.
 > * Optical Character Recognition (OCR) to process many of the retrieved records into computer readable form.
 > * Natural Language Processing (NLP) to understand the meaning behind the retrieved medical records.
@@ -97,7 +97,7 @@ In addition, Credo Health maintains that[^8]
 * The increase in HCC value is fully supported by clinical evidence which the solution references in the patient record.
 
 > [!Note]
-> Unfortunately, the author was unable to independently verify these results or determine how these results compare with competitors results beyond what is described in section [Competitors and Competitive Advantage](#competitors-and-competitive-advantage) above.
+> Unfortunately, the author was unable to independently verify these results or determine how these results compare with competitors' results beyond what is described in section [Competitors and Competitive Advantage](#competitors-and-competitive-advantage) above.
 
 ## Recommendations
 
@@ -119,7 +119,7 @@ All of this data could be analyzed using AI and ML to not only determine what th
 | CMS         | "Center for Medicare and Medicaid Services". Governement agency that manages the Medicare, Medicaid, and the Children's Health Insurance  programs. It also manages the Health Insurance Marketplace.[^22] |
 | FHIR        | "Fast Healthcare Interoperability Resource". A standard that defines how healthcare information can be exchanged between different computer systems regardless of how it is stored in each system.[^23] |
 | HCC         | "Hierarchical Condition Categories". It is a set of medical codes that are linked to specific diagnoses. They are used to determine the risk adjustment factor for a patient.[^24] HCC is expressed in a value that is less than one for patients that are healthier than average and larger than one for patients that are less healthy than average.[^25] |
-| HEDIS       | "Healthcare Effectiveness Data and Information Set". It is a widely used management tool in the healthcare industry. It allows to measure the health of a population and the quality of care this population receives in a standardized way, thereby allowing for comparisons between the health and quality of care of different populations. It is based on "scientific evidence, input from key stakeholders and experts in health measurement".[^26] |
+| HEDIS       | "Healthcare Effectiveness Data and Information Set". It is a widely used management tool in the healthcare industry. It allows to measure, in a standardized way, the health of a population and the quality of care this population receives, thereby allowing for comparisons between the health and quality of care of different populations. It is based on "scientific evidence, input from key stakeholders and experts in health measurement".[^26] |
 |Longitudinal Health Record | "The Longitudinal Record is a single comprehensive patient record comprised of data from numerous data sources across the healthcare continuum."[^27] |
 | RAF         | "Risk Adjustment Factor". It is used to determine how to adjust payments to Medicare Advantage Organizations, among others, for the expected healthcare costs of their enrollees. It is based on disease factors and demographics.[^28] |
 | Social Determinants of Health | "Social determinants of health (SDOH) are the conditions in the environments where people are born, live, learn, work, play, worship, and age that affect a wide range of health, functioning, and quality-of-life outcomes and risks."[^29] |
